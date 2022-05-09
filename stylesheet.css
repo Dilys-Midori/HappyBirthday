@@ -1093,20 +1093,30 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
+
 #b1,#b11 {
 	background-image: url('b1.png');
+	margin-left: 20px;
 }
 #b2,#b22 {
 	background-image: url('b2.png');
+	margin-left: 35px;
+
 }
 #b3,#b33 {
 	background-image: url('b3.png');
+	margin-left: 50px;
+
 }
 #b4,#b44{
 	background-image: url('b4.png');
+	margin-left: 65px;
+
 }
 #b5,#b55{
 	background-image: url('b5.png');
+	margin-left: 80px;
+
 }
 
 .balloons-rotate-behaviour-one {
